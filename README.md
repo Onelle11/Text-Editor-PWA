@@ -46,6 +46,14 @@ THEN I should have proper build scripts for a webpack application
 npm run start
 ```
 
+## Screenshots
+
+### Heroku Deploy Screenshot
+<img src="./assets/JATE.png" alt="Heroku Deploy Screenshot">
+
+### Localhost:3000
+<img src="./assets/JATE_localhost.png" alt="Localhost:3000 Screenshot">
+
 ## Deployed Heroku App
 
 https://lit-coast-48127.herokuapp.com/
